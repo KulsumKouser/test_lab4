@@ -1,1 +1,1 @@
-this the content of the local repository
+this is a local repository
